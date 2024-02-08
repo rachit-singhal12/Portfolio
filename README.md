@@ -74,4 +74,8 @@ other module that should be installed
 react-scroll, react-incons
 
 
-demo : https://rachitsinghalportfolio.netlify.app/
+demo : 
+
+![Screenshot 2024-02-08 215137](https://github.com/rachit-singhal12/Portfolio/assets/88622017/f2ded810-6a0f-4340-beff-77a21200fe67)
+
+
